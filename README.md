@@ -10,3 +10,5 @@ SQL Database implemented with Typescript Type Annotations
 NanoSQL <https://www.npmjs.com/package/@nano-sql/core>
 
 Postgres Emulation <https://www.npmjs.com/package/pg-mem>
+
+<https://www.npmjs.com/package/lokijs>
