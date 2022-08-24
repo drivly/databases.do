@@ -16,3 +16,7 @@ Postgres Emulation <https://www.npmjs.com/package/pg-mem>
 <https://www.npmjs.com/package/sharedb-mingo-memory>
 
 <https://www.npmjs.com/package/mingo>
+
+<https://www.npmjs.com/package/forerunnerdb>
+
+<https://www.npmjs.com/package/fake-indexeddb>
