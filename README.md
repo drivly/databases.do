@@ -6,3 +6,7 @@ Redis implementation
 
 SQL Database implemented with Typescript Type Annotations
 <https://github.com/codemix/ts-sql>
+
+NanoSQL <https://www.npmjs.com/package/@nano-sql/core>
+
+Postgres Emulation <https://www.npmjs.com/package/pg-mem>
