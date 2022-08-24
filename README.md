@@ -12,3 +12,7 @@ NanoSQL <https://www.npmjs.com/package/@nano-sql/core>
 Postgres Emulation <https://www.npmjs.com/package/pg-mem>
 
 <https://www.npmjs.com/package/lokijs>
+
+<https://www.npmjs.com/package/sharedb-mingo-memory>
+
+<https://www.npmjs.com/package/mingo>
