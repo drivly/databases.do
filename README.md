@@ -1,4 +1,4 @@
-# database.do
+# databases.do
 Durable Object Database Implementations
 
 Redis implementation
